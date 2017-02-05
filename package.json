@@ -20,6 +20,10 @@
   "homepage": "https://github.com/myztajay/Socket-Drawing-App#readme",
   "dependencies": {
     "express": "^4.14.1",
+    "http-server": "^0.9.0",
     "socket.io": "^1.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
